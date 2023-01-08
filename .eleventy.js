@@ -8,7 +8,7 @@ const markdownItHighlightJS = require('markdown-it-highlightjs')
 const readerBar = require('henry-reader-bar')
 const readingTime = require('henry-reading-time')
 
-const mdOptions = {
+const mdOptions = {Hola
   html: true,
   breaks: true,
   linkify: true,
